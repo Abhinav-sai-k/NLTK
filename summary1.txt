@@ -1,0 +1,4 @@
+Data engineering is a critical function in modern data-driven organizations.
+It involves designing, building, and maintaining scalable systems for collecting, storing, and analyzing data efficiently.
+A good data engineer understands distributed systems, data modeling, ETL pipelines, and cloud infrastructure. 
+These skills ensure that data is accurate, accessible, and secure for downstream analytics and machine learning workflows.
